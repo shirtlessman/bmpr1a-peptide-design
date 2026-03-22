@@ -1,0 +1,362 @@
+[
+  {
+    "name": "scrambled_RFdiffusion_0012",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "LKAELLRKELEEKPEKLLR",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "scrambled_RFdiffusion_0013",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "LLLLLAAKLKLELPSEFLL",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "scrambled_RFdiffusion_0014",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "LAEELEEELELERLALLSE",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "scrambled_RFdiffusion_0015",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SLLQHLAKPAFRLEKELEL",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "scrambled_RFdiffusion_0016",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "EKEVLATSSALLLLPASLK",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "scrambled_RFdiffusion_0017",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "KEELRTKKLLLEEFILERS",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "scrambled_RFdiffusion_0018",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "LLAAKLSLKAVLENAAEAQ",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "scrambled_RFdiffusion_0019",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "YILKLSRLYSESKTLLEEK",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "scrambled_RFpeptides_0000",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "PEIGGLYPYEGEEK",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "scrambled_RFpeptides_0001",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "ILEGEGPKYGEPEY",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "scrambled_RFpeptides_0002",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GELYGYPYVEPEGK",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "scrambled_RFpeptides_0003",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "ESYEYGPLGGIEPE",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "scrambled_RFpeptides_0004",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "KGFELGGIKPEYPE",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "scrambled_RFpeptides_0005",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "KYKIGEYGPLPEEG",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "scrambled_RFpeptides_0006",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "EPYYGPGESGYELI",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "scrambled_RFpeptides_0007",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IGGPYEPLEGKEKY",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "random_0000",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "RYSLCILLRDIKWHQEVIF",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "random_0001",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "FDCGLYWLRERLPKTVSRDYCQMYK",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "random_0002",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "DIWWAKWCGSTRKGW",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "random_0003",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SDSNQMMEGMQSLPVCRDM",
+          "count": 1
+        }
+      }
+    ]
+  }
+]

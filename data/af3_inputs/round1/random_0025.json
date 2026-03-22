@@ -1,0 +1,20 @@
+[
+  {
+    "name": "random_0025",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "YLNEWTHFSIENVNEKWIQVYYVAY",
+          "count": 1
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "rfdiff_d6_n2",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "DELLAYIEEVEKKKKLYLE",
+          "count": 1
+        }
+      }
+    ]
+  }
+]

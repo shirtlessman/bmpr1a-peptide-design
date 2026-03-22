@@ -1,0 +1,434 @@
+[
+  {
+    "name": "bindcraft_BMPR1A_l26_s635301",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SIDEGIQGFMDWYKKNREEIQKLLKR",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "bindcraft_BMPR1A_l24_s795388",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "NPRGWLGGMMREYRKWYKKIKAKM",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "bindcraft_BMPR1A_l24_s327222",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SGQSRIGQRREMWRQEYREWLKKL",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "bindcraft_BMPR1A_l15_s853494",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "DPKWDQWLRNWLKDC",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "bindcraft_BMPR1A_l19_s663759",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MSVMNMLMRLMCRFEHWMW",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "bindcraft_BMPR1A_l16_s391274",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "DGSLREQFRERLRSMC",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "bindcraft_BMPR1A_l19_s490128",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "PTEWFDDMKKWWKKIRDAM",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "bindcraft_BMPR1A_l26_s84928",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "DSEMSEWMGRWMRIGMTEFLCMMQDM",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "bindcraft_BMPR1A_l16_s332661",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SDEGRQKLNEWLNALM",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "bindcraft_BMPR1A_l18_s238286",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDASDRRNQFRKGLRDQC",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "bindcraft_BMPR1A_l18_s461196",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SIEEERNRFHNDLWDAWR",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "bindcraft_BMPR1A_l15_s270298",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SPGEEEREALRERLM",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "bindcraft_BMPR1A_l11_s859815",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "DPEYDKALKEM",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "bindcraft_BMPR1A_l15_s933826",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SGEEKRKAWREWLMR",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "bindcraft_BMPR1A_l26_s356362",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SSEELRESHRNGGKKWWEDDMEWLRR",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "bindcraft_BMPR1A_l12_s491995",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SEEERQEWWNRL",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "bindcraft_BMPR1A_l14_s790748",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "TPEEEREELRKWWM",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "bindcraft_BMPR1A_l30_s359896",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "DIEELMWWMQWGKYSKIGMRRFMKILMEMM",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "bindcraft_BMPR1A_l15_s477718",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SPREQWNNQLNELMR",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "bindcraft_BMPR1A_l12_s373689",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SEEDEKWREWMR",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "bindcraft_BMPR1A_l14_s748574",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "NPKLEEERKRWREM",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "bindcraft_BMPR1A_l25_s769238",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "DWEEWLNSSRRFRRLKKMLEKLKRM",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "bindcraft_BMPR1A_l25_s851912",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "TMQGMMNMMNSMRRQMNRAWWKSLM",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "bindcraft_BMPR1A_l26_s861050",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SERQQKLQILWLWFHGEYEKYLKMQS",
+          "count": 1
+        }
+      }
+    ]
+  }
+]

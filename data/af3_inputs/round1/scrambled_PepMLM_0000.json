@@ -1,0 +1,20 @@
+[
+  {
+    "name": "scrambled_PepMLM_0000",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "CQRTKLCTLRRCAKSMGRDEPCALM",
+          "count": 1
+        }
+      }
+    ]
+  }
+]

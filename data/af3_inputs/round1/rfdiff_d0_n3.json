@@ -1,0 +1,20 @@
+[
+  {
+    "name": "rfdiff_d0_n3",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SLLQLLELLLQLALYLARR",
+          "count": 1
+        }
+      }
+    ]
+  }
+]

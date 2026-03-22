@@ -1,0 +1,20 @@
+[
+  {
+    "name": "pepmlm_L15_0023",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GVVETVVALLAACCR",
+          "count": 1
+        }
+      }
+    ]
+  }
+]

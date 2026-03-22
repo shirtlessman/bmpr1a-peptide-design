@@ -1,0 +1,108 @@
+digraph pipeline {
+    rankdir=LR;
+    bgcolor="white";
+    fontname="Helvetica";
+    node [fontname="Helvetica", fontsize=14, shape=none, penwidth=2.0];
+    edge [fontname="Helvetica", fontsize=12, penwidth=2.5, color="#555555",
+          arrowsize=1.2, minlen=1];
+    newrank=true;
+    nodesep=0.3;
+    ranksep=0.3;
+
+    // ═══════════════════════════════════════════
+    // BOX 1: Target Preparation
+    // ═══════════════════════════════════════════
+    target [label=<
+        <TABLE BORDER="2" CELLBORDER="0" CELLSPACING="4" CELLPADDING="4"
+               BGCOLOR="#DBEAF9" COLOR="#4A90D9" STYLE="ROUNDED">
+            <TR><TD><B><FONT POINT-SIZE="16" COLOR="#2B5F9E">Target<BR/>Preparation</FONT></B></TD></TR>
+            <TR><TD><IMG SRC="thumb_1rew.png"/></TD></TR>
+            <TR><TD ALIGN="LEFT"><FONT POINT-SIZE="13">PDB: 1REW</FONT></TD></TR>
+            <TR><TD ALIGN="LEFT"><FONT POINT-SIZE="13">BMPR1A ECD</FONT></TD></TR>
+            <TR><TD ALIGN="LEFT"><FONT POINT-SIZE="13">86 residues</FONT></TD></TR>
+            <TR><TD ALIGN="LEFT"><FONT POINT-SIZE="13">30 interface res.</FONT></TD></TR>
+            <TR><TD ALIGN="LEFT"><FONT POINT-SIZE="13">5.0 &#197; cutoff</FONT></TD></TR>
+        </TABLE>
+    >];
+
+    // ═══════════════════════════════════════════
+    // BOX 2: AI Peptide Generation
+    // ═══════════════════════════════════════════
+    generate [label=<
+        <TABLE BORDER="2" CELLBORDER="0" CELLSPACING="4" CELLPADDING="4"
+               BGCOLOR="#DFF0D8" COLOR="#5BAA6B" STYLE="ROUNDED">
+            <TR><TD><B><FONT POINT-SIZE="16" COLOR="#3D7A4A">AI Peptide<BR/>Generation</FONT></B></TD></TR>
+            <TR><TD ALIGN="LEFT"><B><FONT POINT-SIZE="13">PepMLM</FONT></B><FONT POINT-SIZE="13"> (96)</FONT></TD></TR>
+            <TR><TD ALIGN="LEFT"><B><FONT POINT-SIZE="13">RFdiffusion</FONT></B><FONT POINT-SIZE="13"> (64)</FONT></TD></TR>
+            <TR><TD ALIGN="LEFT"><B><FONT POINT-SIZE="13">BindCraft</FONT></B><FONT POINT-SIZE="13"> (24)</FONT></TD></TR>
+            <TR><TD ALIGN="LEFT"><B><FONT POINT-SIZE="13">RFpeptides</FONT></B><FONT POINT-SIZE="13"> (8)</FONT></TD></TR>
+            <TR><TD><FONT POINT-SIZE="12">&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;</FONT></TD></TR>
+            <TR><TD><B><FONT POINT-SIZE="14" COLOR="#3D7A4A">192 candidates</FONT></B></TD></TR>
+            <TR><TD><FONT POINT-SIZE="12" COLOR="#777777">+ 98 controls</FONT></TD></TR>
+            <TR><TD><B><FONT POINT-SIZE="14">= 290 total</FONT></B></TD></TR>
+        </TABLE>
+    >];
+
+    // ═══════════════════════════════════════════
+    // BOX 3: Validation & Scoring
+    // ═══════════════════════════════════════════
+    scoring [label=<
+        <TABLE BORDER="2" CELLBORDER="0" CELLSPACING="4" CELLPADDING="4"
+               BGCOLOR="#FDE8CE" COLOR="#E8913A" STYLE="ROUNDED">
+            <TR><TD><B><FONT POINT-SIZE="16" COLOR="#C07020">Validation<BR/>&amp; Scoring</FONT></B></TD></TR>
+            <TR><TD><IMG SRC="thumb_af3.png"/></TD></TR>
+            <TR><TD ALIGN="LEFT"><B><FONT POINT-SIZE="13">AlphaFold 3</FONT></B></TD></TR>
+            <TR><TD ALIGN="LEFT"><FONT POINT-SIZE="12"><I>ipTM, PAE, pLDDT</I></FONT></TD></TR>
+            <TR><TD><FONT POINT-SIZE="12">&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;</FONT></TD></TR>
+            <TR><TD ALIGN="LEFT"><B><FONT POINT-SIZE="13">PyRosetta</FONT></B></TD></TR>
+            <TR><TD ALIGN="LEFT"><FONT POINT-SIZE="12"><I>dG_sep (REU)</I></FONT></TD></TR>
+            <TR><TD><FONT POINT-SIZE="12">&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;</FONT></TD></TR>
+            <TR><TD ALIGN="LEFT"><B><FONT POINT-SIZE="13">FoldX v5.1</FONT></B></TD></TR>
+            <TR><TD ALIGN="LEFT"><FONT POINT-SIZE="12"><I>&#916;G (kcal/mol)</I></FONT></TD></TR>
+            <TR><TD><FONT POINT-SIZE="12">&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;</FONT></TD></TR>
+            <TR><TD ALIGN="LEFT"><B><FONT POINT-SIZE="13">Contact Recap</FONT></B></TD></TR>
+            <TR><TD ALIGN="LEFT"><FONT POINT-SIZE="12"><I>vs. 1REW (30 res.)</I></FONT></TD></TR>
+        </TABLE>
+    >];
+
+    // ═══════════════════════════════════════════
+    // BOX 4: Ranking & Filtering
+    // ═══════════════════════════════════════════
+    ranking [label=<
+        <TABLE BORDER="2" CELLBORDER="0" CELLSPACING="4" CELLPADDING="4"
+               BGCOLOR="#E8DFEF" COLOR="#8B6BAA" STYLE="ROUNDED">
+            <TR><TD><B><FONT POINT-SIZE="16" COLOR="#6B4C8A">Ranking<BR/>&amp; Filtering</FONT></B></TD></TR>
+            <TR><TD><IMG SRC="thumb_surface.png"/></TD></TR>
+            <TR><TD ALIGN="LEFT"><FONT POINT-SIZE="13"><I>Composite rank:</I></FONT></TD></TR>
+            <TR><TD ALIGN="LEFT"><FONT POINT-SIZE="13">mean of 4 metric</FONT></TD></TR>
+            <TR><TD ALIGN="LEFT"><FONT POINT-SIZE="13">ranks (out of 290)</FONT></TD></TR>
+            <TR><TD><FONT POINT-SIZE="12">&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;</FONT></TD></TR>
+            <TR><TD ALIGN="LEFT"><FONT POINT-SIZE="13"><I>Filters:</I></FONT></TD></TR>
+            <TR><TD ALIGN="LEFT"><FONT POINT-SIZE="12">|charge| &#8804; 8</FONT></TD></TR>
+            <TR><TD ALIGN="LEFT"><FONT POINT-SIZE="12">GRAVY &#8804; 0.5</FONT></TD></TR>
+            <TR><TD ALIGN="LEFT"><FONT POINT-SIZE="12">instability &#8804; 40</FONT></TD></TR>
+            <TR><TD><FONT POINT-SIZE="12">&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;</FONT></TD></TR>
+            <TR><TD><B><FONT POINT-SIZE="14" COLOR="#6B4C8A">54 shortlisted</FONT></B></TD></TR>
+        </TABLE>
+    >];
+
+    // ═══════════════════════════════════════════
+    // Rotated arrow labels (pre-rendered PNGs)
+    // ═══════════════════════════════════════════
+    node [fontname="Helvetica", shape=none, penwidth=0,
+          margin="0", width=0, height=0, fixedsize=false];
+
+    lbl_1 [label="", image="lbl_hotspots.png"];
+    lbl_2 [label="", image="lbl_peptides.png"];
+    lbl_3 [label="", image="lbl_scores.png"];
+
+    // ═══════════════════════════════════════════
+    // Edges (short, tight)
+    // ═══════════════════════════════════════════
+    target -> lbl_1 [arrowhead=none, minlen=1];
+    lbl_1 -> generate [minlen=1];
+    generate -> lbl_2 [arrowhead=none, minlen=1];
+    lbl_2 -> scoring [minlen=1];
+    scoring -> lbl_3 [arrowhead=none, minlen=1];
+    lbl_3 -> ranking [minlen=1];
+}

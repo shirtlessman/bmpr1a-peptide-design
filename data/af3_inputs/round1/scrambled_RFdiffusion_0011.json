@@ -1,0 +1,20 @@
+[
+  {
+    "name": "scrambled_RFdiffusion_0011",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLPFLKCYCSGHCPDDAINNTCITNGHCFAIIEEDDQGETTLASGCMKYEGSDFQCKDSPKAQLRRTIECCRTNLCNQYLQPTLPP",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "LLLLLEALLRVLKDSLENQ",
+          "count": 1
+        }
+      }
+    ]
+  }
+]
