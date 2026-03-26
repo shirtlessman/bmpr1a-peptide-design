@@ -2,7 +2,9 @@
 
 A multi-tool computational benchmarking study comparing four generative AI protein design tools for designing peptide binders targeting the BMPR1A extracellular domain.
 
-**Preprint:** [bioRxiv link coming soon]
+[![bioRxiv](https://img.shields.io/badge/bioRxiv-2026.03.22.713519-b31b1b.svg)](https://doi.org/10.64898/2026.03.22.713519)
+
+**Preprint:** [bioRxiv 2026.03.22.713519](https://doi.org/10.64898/2026.03.22.713519)
 
 ## Overview
 
@@ -68,7 +70,7 @@ Energy scoring additionally requires:
 
 If you use this data or code, please cite:
 
-> Ahmadov A, Ahmadov O. AI-guided design of candidate BMPR1A-binding peptides for cartilage regeneration: a multi-tool computational benchmarking study. *bioRxiv*. 2026. doi: [coming soon]
+> Ahmadov A, Ahmadov O. AI-guided design of candidate BMPR1A-binding peptides for cartilage regeneration: a multi-tool computational benchmarking study. *bioRxiv*. 2026. doi: [10.64898/2026.03.22.713519](https://doi.org/10.64898/2026.03.22.713519)
 
 ## License
 
