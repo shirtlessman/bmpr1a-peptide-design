@@ -3,8 +3,9 @@
 A multi-tool computational benchmarking study comparing four generative AI protein design tools for designing peptide binders targeting the BMPR1A extracellular domain.
 
 [![bioRxiv](https://img.shields.io/badge/bioRxiv-2026.03.22.713519-b31b1b.svg)](https://doi.org/10.64898/2026.03.22.713519)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19235171.svg)](https://doi.org/10.5281/zenodo.19235171)
 
-**Preprint:** [bioRxiv 2026.03.22.713519](https://doi.org/10.64898/2026.03.22.713519)
+**Preprint:** [bioRxiv 2026.03.22.713519](https://doi.org/10.64898/2026.03.22.713519) | **Archive:** [Zenodo 10.5281/zenodo.19235171](https://doi.org/10.5281/zenodo.19235171)
 
 ## Overview
 
